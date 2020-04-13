@@ -1,0 +1,35 @@
+    .back1 {
+      background-color: #a4c5c6;
+      background-size: auto;
+    }
+    .back2 {
+      background-color: #96fc85;
+      background-size: auto;
+    }
+    .back3 {
+      background-color: #856c8b;
+      background-size: auto;
+    }
+    .header-text {
+      font-size : 25pt;
+    }
+    th{
+      font-size : 15pt;
+      height: 50px;
+    }
+    .bold{
+      font-weight:bold;
+    }
+    td, th { padding:10px 20px;  }
+    #table2 td {
+      border: 6px inset black;
+      padding:10px 20px;
+      background-color: green;
+      height: 50px;
+      width: 400px;		 
+       }
+       .reflect{
+        color: brown;
+        font-family: 'Lucida Sans';
+        font-weight: bold;}
+ /** Add any CSS you need to this file. */
